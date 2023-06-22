@@ -27,7 +27,7 @@ public:
 };
 
 TC:O(2*N*M)
-SC:O(1)
+SC:O(N+M)
 
 
 //Optimal solution
